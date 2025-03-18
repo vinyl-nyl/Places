@@ -2,10 +2,10 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=swift,macos
 
 # user settings #
-GoogleService-Info.plist
-Podfile.lock
-Places.xcodeproj
-Places.xcworkspace
+*.plist
+*.lock
+Places.xcodeproj/
+Places.xcworkspace/
 
 ### macOS ###
 # General
