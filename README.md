@@ -53,20 +53,6 @@ PlacesApp
 │   ├── Assets.xcassets
 ```
 
-## 🚀 프로젝트 실행 방법
-1. **Firebase 설정**
-   - Firebase 프로젝트 생성 후 Firestore 및 Authentication 활성화
-   - `GoogleService-Info.plist` 파일을 Xcode 프로젝트에 추가
-
-2. **라이브러리 설치**
-   ```sh
-   pod install
-   ```
-
-3. **Xcode에서 실행**
-   - `Places.xcworkspace` 열기
-   - iOS 시뮬레이터 또는 실제 기기에서 실행
-
 ## 📌 향후 추가할 기능 (TODO)
 - [ ] 장소 검색 기능 추가
 - [ ] 사용자 프로필 이미지 크롭 기능 추가
