@@ -1,8 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/swift,macos,firebase
 # Edit at https://www.toptal.com/developers/gitignore?templates=swift,macos,firebase
 
-GoogleService-Info.plist
-
 ### Firebase ###
 .idea
 **/node_modules/*
