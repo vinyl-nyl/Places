@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.439307917991-tbql9b4qrdtr2esb0nmkv6e9pko6nri4</string>
+			</array>
+		</dict>
+	</array>
+	<key>LSApplicationQueriesSchemes</key>
+	<string>nmap</string>
+	<key>NMFClientId</key>
+	<string>opa97hk18x</string>
+	<key>NaverAPIClientID</key>
+	<string>9fzopt8Rx1x7VpgWEELO</string>
+	<key>NaverAPIClientSecret</key>
+	<string>UZKYF5j3ZN</string>
+</dict>
+</plist>
