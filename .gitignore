@@ -1,11 +1,14 @@
-# Created by https://www.toptal.com/developers/gitignore/api/swift,macos
-# Edit at https://www.toptal.com/developers/gitignore?templates=swift,macos
+# Created by https://www.toptal.com/developers/gitignore/api/swift,macos,firebase
+# Edit at https://www.toptal.com/developers/gitignore?templates=swift,macos,firebase
 
-# user settings #
-*.plist
-*.lock
-Places.xcodeproj/
-Places.xcworkspace/
+### Firebase ###
+.idea
+**/node_modules/*
+**/.firebaserc
+
+### Firebase Patch ###
+.runtimeconfig.json
+.firebase/
 
 ### macOS ###
 # General
@@ -124,4 +127,4 @@ fastlane/test_output
 
 iOSInjectionProject/
 
-# End of https://www.toptal.com/developers/gitignore/api/swift,macos
+# End of https://www.toptal.com/developers/gitignore/api/swift,macos,firebase
